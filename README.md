@@ -19,7 +19,8 @@ This project consists of hardware to keep food fresh and software for user conve
 - ESP13 Wifi Shield
 - Step motor
 - IR Remote transmitter and receiver
-<img src="/images/product.jpg" width="300px" height="400px" title="product" alt="product"></img>
+<br />
+<img src="/images/product.jpg" width="400px" height="300px" title="product" alt="product"></img>
 
 ## Application Version
 - minSdkVersion : 16
@@ -27,4 +28,4 @@ This project consists of hardware to keep food fresh and software for user conve
 
 ## Hackathon Results
 Got 2nd Prize
-<img src="/images/result.jpg" width="300px" height="400px" title="result" alt="result"></img>
+<img src="/images/result.jpg" width="400px" height="300px" title="result" alt="result"></img>
