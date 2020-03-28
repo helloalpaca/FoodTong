@@ -27,5 +27,5 @@ This project consists of hardware to keep food fresh and software for user conve
 - targetSdkVersion : 28
 
 ## Hackathon Results
-Got 2nd Prize
+Got 2nd Prize <br />
 <img src="/images/result.jpg" width="400px" height="300px" title="result" alt="result"></img>
