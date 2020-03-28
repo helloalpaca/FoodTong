@@ -1,5 +1,4 @@
 # FoodTong
-<<<<<<< HEAD
 a project to protect delivered food fresh. <br />
 It's a project developed at the 1st Pukyong Creative Makerthon(2019).
 - email address : jms393497@gmail.com
@@ -11,20 +10,6 @@ This project consists of hardware to keep food fresh and software for user conve
 2. Users will be notified of delivery information and password by mobile application.
 
 ## Development Environment
-=======
-a project to protect delivered food fresh.
-=======
-- Developer : Minseon Kwon, Jungdong Kim
-- Designer : Youngwoo Cho
-- email address : jms393497@gmail.com
-
-Introduction
-------------
-The project consists of hardware to keep food safe and software for user convenience.
-
-Development Environment
------------
->>>>>>> master
 - Arduino @1.8.10
 - Android Studio @3.5.2
 - Firebase Cloud Messaging
