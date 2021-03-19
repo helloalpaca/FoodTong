@@ -2,7 +2,6 @@
 a project to protect delivered food fresh. <br />
 It's a project developed at the 1st Pukyong Creative Makerthon(2019).
 - email address : jms393497@gmail.com
-- blog : https://popcorn16.tistory.com/
 
 ## Introduction
 This project consists of hardware to keep food fresh and software for user convenience.<br />
